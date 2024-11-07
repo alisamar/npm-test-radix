@@ -7,3 +7,4 @@ index.mjs
 dist
 *.bak
 *.tgz
+coverage
