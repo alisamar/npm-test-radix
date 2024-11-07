@@ -1,7 +1,7 @@
 {
   "name": "npm-test-radix",
   "description": "test npm package",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "files": [
     "dist/**/*",
     "!**/*.tsbuildinfo",
@@ -62,10 +62,10 @@
     "typescript": "^5.6.3"
   },
   "license": "MIT",
-  "packageManager": "pnpm@7.3.0",
+  "packageManager": "pnpm@9.7.1",
   "engines": {
-    "node": ">=14",
-    "pnpm": ">=7"
+    "node": ">=20",
+    "pnpm": ">=9"
   },
   "jest": {
     "collectCoverage": true
